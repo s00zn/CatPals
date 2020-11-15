@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e8356ef04482fc9a4a07120c82777c3",
+    "revision": "f31364b67590aaedaedc5f400760d1ec",
     "url": "/CatPals/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CatPals/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "6f2db3febd855a4b9ce9",
-    "url": "/CatPals/static/css/main.e2a014ca.chunk.css"
+    "revision": "15fcfbdbe003db5ccb07",
+    "url": "/CatPals/static/css/main.6dc15aff.chunk.css"
   },
   {
     "revision": "cb6974a9d9de3a7de6c8",
@@ -20,11 +20,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CatPals/static/js/2.07bbb8a4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6f2db3febd855a4b9ce9",
+    "revision": "15fcfbdbe003db5ccb07",
     "url": "/CatPals/static/js/main.fdea868a.chunk.js"
   },
   {
     "revision": "0001769a0985dd0713d8",
     "url": "/CatPals/static/js/runtime-main.1404dcf8.js"
+  },
+  {
+    "revision": "ce4ab0322a1225d7100b6c32aa75a3c7",
+    "url": "/CatPals/static/media/brickwall.ce4ab032.jpeg"
   }
 ]);
